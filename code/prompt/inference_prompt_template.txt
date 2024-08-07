@@ -1,0 +1,12 @@
+Please generate similiar response as the example below. Follow the exact same format of example response.
+
+---
+
+#TODO: YOUR PROMPT TEXT HERE
+
+----
+
+Now, please follow the EXACT same format of the example response and generate rationales assess the social support for the following patient with discharge location of <<DISCHARG>>:
+
+
+#TODO: YOUR NEW INPUT HERE
